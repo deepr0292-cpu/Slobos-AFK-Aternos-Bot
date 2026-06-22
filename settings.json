@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ninja_Smp_07.aternos.me"
-    "port": 53617
+    "ip": "Weather_Smp_07.aternos.me",
+    "port": 41634,
     "version": "",
     "try-creative": false
   },
